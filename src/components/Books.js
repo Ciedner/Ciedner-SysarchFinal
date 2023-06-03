@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBFooter, MDBContainer, MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavbarItem, MDBNavbarLink } from "mdb-react-ui-kit";
+import { MDBFooter, MDBContainer, MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavbarItem, MDBNavbarLink, MDBBtn } from "mdb-react-ui-kit";
 
 function Books() {
   const backgroundStyle = {
@@ -43,6 +43,8 @@ function Books() {
             <p style={{ height: 'auto', width: '400px' }}>
               The first book for daughters who have suffered the abuse of narcissistic, self-involved mothers, Will I Ever Be Good Enough? provides the expert assistance you need in order to overcome this debilitating history and reclaim your life. Drawing on more than two decades of experience as a therapist specializing in women’s health and hundreds of interviews with suffering daughters, Dr. Karyl McBride helps you recognize the widespread effects of this emotional abuse and create an individualized program for self-protection, resolution, and complete recovery.
             </p>
+            <MDBBtn color="primary">$59.75 Buy Now</MDBBtn> <br></br> 
+            <MDBBtn color="primary">Add to Cart</MDBBtn>
           </div>
         </div>
       </div>
@@ -56,6 +58,8 @@ function Books() {
             <p style={{ height: 'auto', width: '400px' }}>
               Both successful entrepreneurs and chess grandmasters have the vision to look at the pieces in front of them and anticipate their next five moves. In this book, Patrick Bet-David “helps entrepreneurs understand exactly what they need to do next” (Brian Tracy, author of Eat That Frog!) by translating this skill into a valuable methodology. Whether you feel like you’ve hit a wall, lost your fire, or are looking for innovative strategies to take your business to the next level, Your Next Five Moves has the answers.
             </p>
+            <MDBBtn color="primary">$25.00 Buy Now</MDBBtn><br></br> 
+            <MDBBtn color="primary">Add to Cart</MDBBtn>
           </div>
         </div>
       </div>
@@ -69,6 +73,8 @@ function Books() {
             <p style={{ height: 'auto', width: '400px' }}>
               When you hear the term “self-compassion,” you might immediately think of the word “nice,” or think that it’s a feeling reserved for the saintly and tenderhearted… that the rest of us are simply too busy to bother showing others any sort of kindness, let alone showing it to ourselves. But what if you found that was a misconception, and that compassion — especially for oneself — isn’t “nice,” but tough and resilient and even badass? And what if cultivating that “tough” self-compassion isn’t a fruitless endeavor at all, and could actually provide you with proven, long-term emotional benefits?
             </p>
+            <MDBBtn color="primary">$46.25 Buy Now</MDBBtn><br></br> 
+            <MDBBtn color="primary">Add to Cart</MDBBtn>
           </div>
         </div>
       </div>
